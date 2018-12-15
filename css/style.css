@@ -11,6 +11,7 @@
 /* /end */
 body {
   background-image: url(background-img.jpg);
+  background-color: #000;
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
